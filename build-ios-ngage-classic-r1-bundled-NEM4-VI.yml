@@ -1,4 +1,4 @@
-name: Build EKA2L1 iOS N-Gage Classic R1 Bundled NEM-4 IPA
+name: Build EKA2L1.github/workflows/build-ios-ngage-classic-r1-bundled-NEM4-VI.yml iOS N-Gage Classic R1 Bundled NEM-4 IPA
 
 on:
   workflow_dispatch:
